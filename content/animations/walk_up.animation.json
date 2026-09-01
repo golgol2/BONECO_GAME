@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "walk_up",
+  "sourceFile": "ANDADO_DECOSTA.mp4",
+  "state": "walk",
+  "direction": "up",
+  "mirrorX": false,
+  "playbackRate": 3,
+  "chroma": {
+    "enabled": true,
+    "keyR": 0,
+    "keyG": 255,
+    "keyB": 0,
+    "tolerance": 204,
+    "feather": 27
+  },
+  "markers": {
+    "loopStart": 21,
+    "loopEnd": 54,
+    "holdStart": 0,
+    "holdEnd": 144
+  }
+}

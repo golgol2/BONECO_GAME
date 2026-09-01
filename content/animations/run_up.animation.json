@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "run_up",
+  "sourceFile": "CORRENDO_DE_COSTA.mp4",
+  "state": "run",
+  "direction": "up",
+  "mirrorX": false,
+  "chroma": {
+    "enabled": true,
+    "keyR": 0,
+    "keyG": 255,
+    "keyB": 0,
+    "tolerance": 204,
+    "feather": 27
+  },
+  "markers": {
+    "loopStart": 29,
+    "loopEnd": 60,
+    "holdStart": 0,
+    "holdEnd": 144
+  }
+}

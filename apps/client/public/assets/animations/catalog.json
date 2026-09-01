@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "clips": [
+    {
+      "id": "idle_down",
+      "state": "idle",
+      "direction": "down",
+      "mirrorX": false,
+      "manifest": "/assets/animations/idle_down/manifest.json"
+    },
+    {
+      "id": "jump",
+      "state": "jump",
+      "direction": "none",
+      "mirrorX": true,
+      "manifest": "/assets/animations/jump/manifest.json"
+    },
+    {
+      "id": "run_down",
+      "state": "run",
+      "direction": "down",
+      "mirrorX": false,
+      "manifest": "/assets/animations/run_down/manifest.json"
+    },
+    {
+      "id": "run_right",
+      "state": "run",
+      "direction": "right",
+      "mirrorX": true,
+      "manifest": "/assets/animations/run_right/manifest.json"
+    },
+    {
+      "id": "run_up",
+      "state": "run",
+      "direction": "up",
+      "mirrorX": false,
+      "manifest": "/assets/animations/run_up/manifest.json"
+    },
+    {
+      "id": "walk_down",
+      "state": "walk",
+      "direction": "down",
+      "mirrorX": false,
+      "manifest": "/assets/animations/walk_down/manifest.json"
+    },
+    {
+      "id": "walk_right",
+      "state": "walk",
+      "direction": "right",
+      "mirrorX": true,
+      "manifest": "/assets/animations/walk_right/manifest.json"
+    },
+    {
+      "id": "walk_up",
+      "state": "walk",
+      "direction": "up",
+      "mirrorX": false,
+      "manifest": "/assets/animations/walk_up/manifest.json"
+    }
+  ]
+}

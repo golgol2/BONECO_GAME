@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "run_up",
+  "state": "run",
+  "direction": "up",
+  "mirrorX": false,
+  "loop": true,
+  "fps": 24.0,
+  "playbackRate": 1.0,
+  "source": {
+    "file": "CORRENDO_DE_COSTA.mp4",
+    "startFrame": 29,
+    "endFrame": 60
+  },
+  "frameSize": {
+    "width": 368,
+    "height": 512
+  },
+  "anchor": {
+    "x": 0.5,
+    "y": 1.0
+  },
+  "frames": [
+    {
+      "file": "frame_000.png",
+      "sourceFrame": 29,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_001.png",
+      "sourceFrame": 30,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_002.png",
+      "sourceFrame": 31,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_003.png",
+      "sourceFrame": 32,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_004.png",
+      "sourceFrame": 33,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_005.png",
+      "sourceFrame": 34,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_006.png",
+      "sourceFrame": 35,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_007.png",
+      "sourceFrame": 36,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_008.png",
+      "sourceFrame": 37,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_009.png",
+      "sourceFrame": 38,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_010.png",
+      "sourceFrame": 39,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_011.png",
+      "sourceFrame": 40,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_012.png",
+      "sourceFrame": 41,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_013.png",
+      "sourceFrame": 42,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_014.png",
+      "sourceFrame": 43,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_015.png",
+      "sourceFrame": 44,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_016.png",
+      "sourceFrame": 45,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_017.png",
+      "sourceFrame": 46,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_018.png",
+      "sourceFrame": 47,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_019.png",
+      "sourceFrame": 48,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_020.png",
+      "sourceFrame": 49,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_021.png",
+      "sourceFrame": 50,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_022.png",
+      "sourceFrame": 51,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_023.png",
+      "sourceFrame": 52,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_024.png",
+      "sourceFrame": 53,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_025.png",
+      "sourceFrame": 54,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_026.png",
+      "sourceFrame": 55,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_027.png",
+      "sourceFrame": 56,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_028.png",
+      "sourceFrame": 57,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_029.png",
+      "sourceFrame": 58,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_030.png",
+      "sourceFrame": 59,
+      "durationMs": 41.666666666666664
+    },
+    {
+      "file": "frame_031.png",
+      "sourceFrame": 60,
+      "durationMs": 41.666666666666664
+    }
+  ]
+}

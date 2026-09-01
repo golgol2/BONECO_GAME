@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "run_right",
+  "sourceFile": "CORRENDO_PARA_DIREITA.mp4",
+  "state": "run",
+  "direction": "right",
+  "mirrorX": true,
+  "playbackRate": 1,
+  "chroma": {
+    "enabled": true,
+    "keyR": 0,
+    "keyG": 255,
+    "keyB": 0,
+    "tolerance": 204,
+    "feather": 27
+  },
+  "markers": {
+    "loopStart": 85,
+    "loopEnd": 115,
+    "holdStart": 0,
+    "holdEnd": 144
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@boneco/client",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@boneco/animation": "0.1.0",
+    "@boneco/core": "0.1.0",
+    "@boneco/gameplay": "0.1.0",
+    "@boneco/physics": "0.1.0",
+    "@boneco/renderer": "0.1.0",
+    "@boneco/shared": "0.1.0",
+    "@boneco/world": "0.1.0",
+    "pixi.js": "^8.13.0"
+  }
+}

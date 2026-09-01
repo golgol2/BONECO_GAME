@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "walk_down",
+  "state": "walk",
+  "direction": "down",
+  "mirrorX": false,
+  "loop": true,
+  "fps": 24.0,
+  "playbackRate": 1.9,
+  "source": {
+    "file": "ANDADO_DE_FRENTE.mp4",
+    "startFrame": 19,
+    "endFrame": 43
+  },
+  "frameSize": {
+    "width": 260,
+    "height": 512
+  },
+  "anchor": {
+    "x": 0.5,
+    "y": 1.0
+  },
+  "frames": [
+    {
+      "file": "frame_000.png",
+      "sourceFrame": 19,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_001.png",
+      "sourceFrame": 20,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_002.png",
+      "sourceFrame": 21,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_003.png",
+      "sourceFrame": 22,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_004.png",
+      "sourceFrame": 23,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_005.png",
+      "sourceFrame": 24,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_006.png",
+      "sourceFrame": 25,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_007.png",
+      "sourceFrame": 26,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_008.png",
+      "sourceFrame": 27,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_009.png",
+      "sourceFrame": 28,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_010.png",
+      "sourceFrame": 29,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_011.png",
+      "sourceFrame": 30,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_012.png",
+      "sourceFrame": 31,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_013.png",
+      "sourceFrame": 32,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_014.png",
+      "sourceFrame": 33,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_015.png",
+      "sourceFrame": 34,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_016.png",
+      "sourceFrame": 35,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_017.png",
+      "sourceFrame": 36,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_018.png",
+      "sourceFrame": 37,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_019.png",
+      "sourceFrame": 38,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_020.png",
+      "sourceFrame": 39,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_021.png",
+      "sourceFrame": 40,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_022.png",
+      "sourceFrame": 41,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_023.png",
+      "sourceFrame": 42,
+      "durationMs": 21.92982456140351
+    },
+    {
+      "file": "frame_024.png",
+      "sourceFrame": 43,
+      "durationMs": 21.92982456140351
+    }
+  ]
+}

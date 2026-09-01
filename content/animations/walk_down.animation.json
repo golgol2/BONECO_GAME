@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "walk_down",
+  "sourceFile": "ANDADO_DE_FRENTE.mp4",
+  "state": "walk",
+  "direction": "down",
+  "mirrorX": false,
+  "playbackRate": 1.9,
+  "chroma": {
+    "enabled": true,
+    "keyR": 0,
+    "keyG": 255,
+    "keyB": 0,
+    "tolerance": 204,
+    "feather": 27
+  },
+  "markers": {
+    "loopStart": 19,
+    "loopEnd": 43,
+    "holdStart": 0,
+    "holdEnd": 144
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "run_down",
+  "sourceFile": "CORRENDO_DE_FRENTE.mp4",
+  "state": "run",
+  "direction": "down",
+  "mirrorX": false,
+  "chroma": {
+    "enabled": true,
+    "keyR": 0,
+    "keyG": 255,
+    "keyB": 0,
+    "tolerance": 204,
+    "feather": 27
+  },
+  "markers": {
+    "loopStart": 47,
+    "loopEnd": 76,
+    "holdStart": 0,
+    "holdEnd": 144
+  }
+}

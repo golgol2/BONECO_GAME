@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "crouch",
+  "sourceFile": "ABAIXANDO_EFICANDOABAIXADO_.mp4",
+  "state": "crouch",
+  "direction": "none",
+  "mirrorX": false,
+  "playbackRate": 1,
+  "chroma": {
+    "enabled": true,
+    "keyR": 0,
+    "keyG": 255,
+    "keyB": 0,
+    "tolerance": 204,
+    "feather": 27
+  },
+  "markers": {
+    "loopStart": 0,
+    "loopEnd": 144,
+    "holdStart": 51,
+    "holdEnd": 118
+  }
+}
